@@ -80,8 +80,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[![maiatorchelsen GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiatorchelsen&show_icons=true&theme=rose_pine)](https://github.com/SEU_USUARIO)
-" 
+    src="https://github-readme-stats.vercel.app/api?username=maiatorchelsen&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
