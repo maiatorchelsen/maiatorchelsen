@@ -4,7 +4,7 @@
 </a>
 </p>
 
-🔭 Estudante de Análise e Desenvolvimento de sistemas Unisenac Pelotas, atualmente trabalho na PROGEP-UFPel e estou aprendendo JavaScript, HTML, CSS, Tailwind e Python </br>
+🔭 Estudante de Análise e Desenvolvimento de sistemas Unisenac Pelotas, estou aprendendo JavaScript, HTML, CSS, Tailwind e Python </br>
 </br>
 
 
