@@ -63,10 +63,19 @@
 <img 
     align="left" 
     alt="C"
-    title="C" 
+    title="tailwind" 
     width="40px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" 
+ />
+
+ <img 
+    align="left" 
+    alt="C"
+    title="react" 
+    width="40px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
  />
         
 </br>
