@@ -16,7 +16,6 @@
 - 👯 Estou procurando colaborar em projetos de **QA, automação, testes E2E e APIs**
 - 🤔 Estou procurando ajuda para evoluir em **boas práticas de automação e arquitetura de testes**
 - 💬 Pergunte-me sobre **Playwright, testes E2E, testes de API, JavaScript e QA**
-- 📫 Como entrar em contato comigo: **(coloque seu e-mail ou LinkedIn aqui)**
 - ⚡ Curiosidade: **Além da tecnologia, também adoro o universo dos livros e da leitura 📖**
 
 ---
