@@ -6,6 +6,10 @@
 
 🔭 Estudante de Análise e Desenvolvimento de sistemas Unisenac Pelotas, estou aprendendo JavaScript, HTML, CSS, Tailwind e Python </br>
 </br>
+💻 Analista de Qualidade | QA Tester  
+🚀 Focada em automação de testes com Playwright, APIs e desenvolvimento  
+📚 Apaixonada por livros, tecnologia e aprendizado contínuo  
+
 
 
  <a href="https://github.com/maiatorchelsen?tab=repositories&sort=stargazers">
@@ -99,19 +103,53 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiatorchelsen&theme=rose&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+## 👩‍💻 Sobre mim
+
+- 🔭 Atualmente estou trabalhando em projetos de **automação de testes** e **testes de API**
+- 🌱 Atualmente estou aprendendo mais sobre **Playwright, JavaScript, Java, Spring Boot e testes automatizados**
+- 👯 Estou procurando colaborar em projetos de **QA, automação, testes E2E e APIs**
+- 🤔 Estou procurando ajuda para evoluir em **boas práticas de automação e arquitetura de testes**
+- 💬 Pergunte-me sobre **Playwright, testes E2E, testes de API, JavaScript e QA**
+- 📫 Como entrar em contato comigo: **(coloque seu e-mail ou LinkedIn aqui)**
+- ⚡ Curiosidade: **Além da tecnologia, também adoro o universo dos livros e da leitura 📖**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- JavaScript
+- Java
+- Playwright
+- Node.js
+- API Testing
+- Postman
+- Git & GitHub
+- HTML & CSS
+- SQL
+- Spring Boot
+
+---
+
+## 📈 Objetivos
+
+Atualmente, meu foco é crescer cada vez mais na área de **Qualidade de Software**, aprimorando minhas habilidades em:
+
+- Automação de testes web
+- Testes de API
+- Boas práticas de QA
+- Frameworks de automação
+- Integração de testes em pipelines CI/CD
+
+---
+
+## 📚 Um pouco além do código
+
+Sou apaixonada por leitura e adoro compartilhar experiências com livros.  
+Acredito que tecnologia e criatividade andam juntas! ✨
+
+---
+
+⭐ Seja bem-vindo(a) ao meu perfil!
 </p>
 
-<!--
-**maiatorchelsen/maiatorchelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
