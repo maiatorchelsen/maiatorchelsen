@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=160&section=header"/>
 <p align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffc4d8&center=true&width=435&lines=Ooi!+Eu+sou+a+Maiara!" alt="Typing SVG" />
