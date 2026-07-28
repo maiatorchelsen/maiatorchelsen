@@ -7,8 +7,8 @@
 
 🔭 Estudante de Análise e Desenvolvimento de sistemas Unisenac Pelotas, estou aprendendo JavaScript, HTML, CSS, Tailwind e Python </br>
 </br>
-💻 Analista de Qualidade | QA Tester  
-🚀 Focada em automação de testes com Playwright, APIs e desenvolvimento  
+💻 Engenharia de dados | QA Tester  
+🚀 Focada em engenharia de dados, automação de testes com Playwright, APIs e desenvolvimento  
 📚 Apaixonada por livros, tecnologia e aprendizado contínuo  
 ## 👩‍💻 Sobre mim
 
