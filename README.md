@@ -39,7 +39,7 @@
 ## 📈 Objetivos
 
 Atualmente, meu foco é crescer cada vez mais na área de **Qualidade de Software**, aprimorando minhas habilidades em:
-
+- Engenharia de Dados (Databricks, azure, pyspark, análise de dados,sql)
 - Automação de testes web
 - Testes de API
 - Boas práticas de QA
