@@ -134,8 +134,7 @@ Acredito que tecnologia e criatividade andam juntas! ✨
     width="40px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-           
- />      
+              
 </br>
 </br>
 
