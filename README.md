@@ -135,7 +135,7 @@ Acredito que tecnologia e criatividade andam juntas! ✨
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
   />
-  />
+  
    <img 
     align="left" 
     alt="C"
