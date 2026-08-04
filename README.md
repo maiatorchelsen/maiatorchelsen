@@ -127,7 +127,15 @@ Acredito que tecnologia e criatividade andam juntas! ✨
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
  />
-        
+   <img 
+    align="left" 
+    alt="C"
+    title="docker" 
+    width="40px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+           
+ />      
 </br>
 </br>
 
