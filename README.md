@@ -133,8 +133,18 @@ Acredito que tecnologia e criatividade andam juntas! ✨
     title="docker" 
     width="40px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-                  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+  />
+  />
+   <img 
+    align="left" 
+    alt="C"
+    title="postman" 
+    width="40px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+  />
+                
 </br>
 </br>
 
